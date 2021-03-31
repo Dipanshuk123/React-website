@@ -1,2 +1,1 @@
-# React-website
-Create a reponsive website
+This project was bootstrapped with Create React App.
